@@ -8,7 +8,7 @@
 </head>
 <body>
 
-jsppro project
+jsppro project&(수정)
 
 </body>
 </html>
